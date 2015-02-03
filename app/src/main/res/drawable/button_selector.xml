@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright (c) 2014, Green White Solutions LLC.
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <!--<solid android:color="#409c8752"/>-->
+            <solid android:color="#40008CCF"/>
+        </shape>
+    </item>
+</selector>
