@@ -1,2 +1,2 @@
 # AndroidSlidingMenu
-android sliding menu lib for android varsion v14
+android sliding menu lib for android version v14
